@@ -1,6 +1,5 @@
 
-#Tech Academy C# coursework
-#A note about this repo
+#Tech Academy C# coursework: A note about this repo
 C # and .NET comprised the final web dev course section at The Tech Academy. 
 The coursework/challenges and assignments were pushed continuously to Github and placed in their own individual repositories. Work from this course spans from 1-19-2024 through 3-20-2024. 
 I wanted to preserve the timeline of git commits and the structure of the work.
